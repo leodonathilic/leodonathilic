@@ -20,7 +20,7 @@
 - A passionate Self-taught Python developer
 - Currently studying at [ESAIP](https://www.esaip.org) in Angers
 - Playing CTF's during spare time on various websites
-- [my resume](https://read.cv/leodonathilic)
+- [My resume](https://read.cv/leodonathilic)
 
 <br><br>
 
